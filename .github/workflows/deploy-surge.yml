@@ -1,4 +1,4 @@
-name: Deploy Website SURGE
+name: Deploy Website SURG E
 on: [push]
 
 jobs:
